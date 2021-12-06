@@ -3,14 +3,14 @@
   "version": "1.1.0",
   "description": "",
   "main": "index.js",
-  "homepage": "https://dassongh.github.io/ice-cream-team-project",
+  "homepage": "https://VikOrlovskiy/ice-cream-team-project",
   "scripts": {
     "dev": "parcel src/*.html",
     "build": "parcel build src/*.html --public-url /ice-cream-team-project/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dassongh/parcel-project-template.git"
+    "url": "git+https://github.com/VikOrlovskiy/parcel-project-template.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
